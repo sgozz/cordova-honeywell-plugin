@@ -56,7 +56,7 @@ public class HoneywellScannerPlugin extends CordovaPlugin implements BarcodeRead
                     properties.put(BarcodeReader.PROPERTY_INTERLEAVED_25_ENABLED, true);
                     properties.put(BarcodeReader.PROPERTY_PDF_417_ENABLED, true);
                     // Set Max Code 39 barcode length
-                    properties.put(BarcodeReader.PROPERTY_CODE_39_MAXIMUM_LENGTH, 10);
+                    properties.put(BarcodeReader.PROPERTY_CODE_39_MAXIMUM_LENGTH, 48);
                     // Turn on center decoding
                     properties.put(BarcodeReader.PROPERTY_CENTER_DECODE, false);
                     // Disable bad read response, handle in onFailureEvent
