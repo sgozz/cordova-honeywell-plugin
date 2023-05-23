@@ -1,6 +1,6 @@
 {
-  "name": "cordova-honeywell-plugin",
-  "version": "1.0.4",
+  "name": "cordova-honeywell-plugin-mod",
+  "version": "1.0.5",
   "description": "Cordova Plugin to receive scanned code from a Honeywell scanner (CT50, CT60, D75E, others?).",
   "main": "www/honeywell.js",
   "scripts": {
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kulkarniswapnil/honeywell-scanner.git"
+    "url": "git+https://github.com/sgozz/cordova-honeywell-plugin.git"
   },
-  "author": "Swapnil",
+  "author": "Fabio Gennai",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/kulkarniswapnil/honeywell-scanner/issues"
   },
-  "homepage": "https://github.com/kulkarniswapnil/honeywell-scanner",
+  "homepage": "https://github.com/sgozz/cordova-honeywell-plugin",
   "dependencies": {
     "user": "0.0.0"
   },

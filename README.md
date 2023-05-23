@@ -12,11 +12,11 @@ I have just copied all the code from above source and added extra properties as 
 Install
 -------
 
-Ionic: `ionic cordova plugin add cordova-honeywell-plugin`
+Ionic: `ionic cordova plugin add cordova-honeywell-plugin-mod`
 
-Cordova: `cordova plugin add cordova-honeywell-plugin`
+Cordova: `cordova plugin add cordova-honeywell-plugin-mod`
 
-Capacitor: `npm i cordova-honeywell-plugin` 
+Capacitor: `npm i cordova-honeywell-plugin-mod` 
 
 Usage & implementation exactly like original one
 -----
